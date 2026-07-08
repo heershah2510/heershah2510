@@ -1,62 +1,99 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=220&section=header&text=Heer%20Shah&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20ML%20Researcher%20%7C%20Patent%20Holder&descSize=18&descAlignY=55&descColor=E2E8F0"/>
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=200&section=header&text=Heer%20Shah&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ML%20Researcher%20%C2%B7%20Edge%20AI%20Developer%20%C2%B7%20Patent%20Holder&descSize=16&descAlignY=58&descColor=E2E8F0"/>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+intelligent+systems+at+the+edge+%F0%9F%A7%A0;450%2B+LeetCode+%7C+Patent+Filed+%7C+9.35+CGPA+%F0%9F%8E%AF;Edge+AI+%C2%B7+Deep+Learning+%C2%B7+Java+%C2%B7+Python+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+intelligent+systems+at+the+edge+%F0%9F%A7%A0;450%2B+LeetCode+problems+%7C+Patent+filed+%7C+9.35+CGPA+%F0%9F%8E%AF)](https://git.io/typing-svg)
+<div align="center">
+  <br>
+  <a href="mailto:heerrshah025@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/heer-shah-vit/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/heershah2510"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://github.com/heershah2510"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=heershah2510&style=for-the-badge&color=A855F7&label=Profile+Views" alt="Profile Views"/>
+  <br><br>
+</div>
 <a href="mailto:heerrshah025@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/heershah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://leetcode.com/u/heershah2510"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>&nbsp;
 <a href="https://github.com/heershah2510"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+## About Me
 <br>
+- 🎓 B.Tech in **Computer Science** at **VIT Vellore** (2023–2027) — CGPA **9.35/10**
+- 🔬 Working on **Edge AI**, **On-Device LLM Inference**, and **Anomaly Detection**
+- 📜 **Patent Filed** — Hydraulic Anomaly Detection using ML & Deep Learning
+- 🏅 **Oracle OCI Generative AI Professional** Certified
+- 🎯 **450+** LeetCode problems solved across DSA & SQL
+- 💃 Trained in **Bharatanatyam** for 7 years — performed solo Arangetram before 500+ audience
 <img src="https://komarev.com/ghpvc/?username=heershah2510&style=for-the-badge&color=A855F7&label=Profile+Views" alt="Profile Views"/>
+## Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </div>
 ---
+## Featured Projects
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+### 🔧 Hydraulic Anomaly Detection — `Patent Filed`
 ```yaml
 name: Heer Shah
 location: India
 education:
-  university: VIT Vellore (2023–2027)
   university: VIT Vellore (2023-2027)
   degree: B.Tech in Computer Science
   cgpa: 9.35 / 10.0
+> An intelligent 3-track anomaly detection pipeline for industrial fault prediction using Feature-based ML, Deep CNN/TCN/GRU classifiers, and unsupervised models (Isolation Forest, Autoencoders).
 current_focus:
   - Edge AI & On-Device LLM Inference
   - Anomaly Detection in Industrial Systems
   - Deep Learning for Healthcare
+**Results:** Cooler **1.000** · Pump **0.997** · Accumulator **0.992** · Valve **0.983** · External Leakage **0.963** balanced accuracy.
 achievements:
-  - 🏆 Patent Filed — Hydraulic Anomaly Detection Framework
-  - 🎯 450+ LeetCode Problems Solved
-  - 🏅 Oracle OCI Generative AI Professional Certified
-  - 💃 7-Year Bharatanatyam Dancer — Solo Arangetram (500+ audience)
   - Patent Filed - Hydraulic Anomaly Detection Framework
   - 450+ LeetCode Problems Solved
   - Oracle OCI Generative AI Professional Certified
   - 7-Year Bharatanatyam Dancer - Solo Arangetram (500+ audience)
-fun_fact: "I can debug a neural network AND perform classical Indian dance 🩰"
+### 🧠 AACBridge: Edge LLM for Assistive Communication
 fun_fact: "I can debug a neural network AND perform classical Indian dance"
 ```
+> Edge AI system for non-verbal patients integrating EMG sensing, eye-gaze tracking, and on-device LLM inference. Targets IEEE Access publication and provisional patent.
 ---
+**Highlights:** TTFT < 500ms · INT4 quantized via llama.cpp · CNN-LSTM EMG classification + gaze fusion
 ## 🚀 Featured Projects
-<table>
-<tr>
-<td width="50%">
+### 🧬 Alzheimer's Disease Prediction
 ### 🔧 Hydraulic Anomaly Detection &nbsp; `Patent Filed`
-### 🔧 Hydraulic Anomaly Detection
-**`Patent Filed`** &nbsp; `ML` `Deep Learning` `Unsupervised Learning`
+> Deep learning model achieving **95%+ accuracy** for early Alzheimer's detection from 5000+ medical images, outperforming baselines by **15%**.
 > **ML** · **Deep Learning** · **Unsupervised Learning**
+### 🔐 Trust Verification — Gatisofttech Internship
 A 3-track anomaly detection pipeline integrating Feature-based ML, Deep CNN/TCN/GRU classifiers, and unsupervised models (Isolation Forest, Autoencoders) for industrial fault prediction.
+> Analyzed 15+ cheating vectors across 5 virtual exam platforms. Proposed 10 mitigation protocols reducing potential risks by **30%**.
 | Component | Balanced Accuracy |
-|-----------|:-:|
 |:--|:-:|
 | Cooler | **1.000** |
 | Pump | **0.997** |
 | Accumulator | **0.992** |
 | Valve | **0.983** |
 | External Leakage | **0.963** |
-</td>
-<td width="50%">
+## GitHub Stats
 ---
-### 🧠 AACBridge: Edge LLM
-**`IEEE Access Target`** &nbsp; `Edge AI` `LLM` `EMG` `Gaze Tracking`
 ### 🧠 AACBridge: Edge LLM &nbsp; `IEEE Access Target`
 > **Edge AI** · **LLM** · **EMG** · **Gaze Tracking**
 Edge AI communication system for non-verbal patients integrating EMG sensing, eye-gaze tracking, and on-device LLM inference.
@@ -64,49 +101,42 @@ Edge AI communication system for non-verbal patients integrating EMG sensing, ey
 - 📱 INT4 quantized inference via **llama.cpp**
 - 🔬 CNN-LSTM EMG classification + gaze fusion
 - 🏥 Provisional patent targeted
-</td>
-</tr>
-<tr>
-<td width="50%">
 ---
-### 🧬 Alzheimer's Disease Prediction
-**`Deep Learning`** &nbsp; `Medical Imaging` `Feature Engineering`
 ### 🧬 Alzheimer's Disease Prediction &nbsp; `Deep Learning`
 > **Medical Imaging** · **Feature Engineering**
 Deep learning model achieving **95%+ accuracy** for early Alzheimer's detection, processing 5000+ medical images and outperforming baselines by **15%**.
-</td>
-<td width="50%">
 ---
-### 🔐 Trust Verification System
-**`Gatisofttech Internship`** &nbsp; `Security` `Research`
 ### 🔐 Trust Verification System &nbsp; `Gatisofttech Internship`
 > **Security** · **Research**
 Analyzed 15+ cheating vectors across 5 virtual exam platforms. Proposed 10 mitigation protocols reducing potential risks by **30%**.
-</td>
-</tr>
-</table>
 ---
 ## 🛠️ Tech Stack
 <div align="center">
-### Languages
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-### ML / AI
 **ML / AI**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-### Tools & Platforms
 **Tools & Platforms**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=heershah2510&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C9D1D9&ring_color=A855F7" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heershah2510&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages"/>
+  <br><br>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=heershah2510&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+</div>
+---
+## LeetCode
 ## 📊 GitHub Stats
 <div align="center">
 <a href="https://github.com/heershah2510">
@@ -115,27 +145,24 @@ Analyzed 15+ cheating vectors across 5 virtual exam platforms. Proposed 10 mitig
 <a href="https://github.com/heershah2510">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heershah2510&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
 </a>
-</div>
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=heershah2510&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E"/>
 <br>
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=heershah2510&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E"/>
+  <a href="https://leetcode.com/u/heershah2510">
+    <img src="https://leetcard.jacoblin.cool/heershah2510?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="500" alt="LeetCode Stats"/>
+  </a>
 </div>
 ---
+## Achievements
 ## 📈 LeetCode Stats
 <div align="center">
-  <a href="https://leetcode.com/u/heershah2510">
-    <img src="https://leetcard.jacoblin.cool/heershah2510?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="500"/>
-  </a>
 <a href="https://leetcode.com/u/heershah2510">
   <img src="https://leetcard.jacoblin.cool/heershah2510?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="500"/>
 </a>
 </div>
 ---
 ## 🏅 Certifications & Highlights
-<div align="center">
-| | Highlight |
 | &nbsp; | Highlight |
+| | |
 |:-:|:--|
 | 🎓 | **Oracle OCI Generative AI Professional** — Oracle University, 2025 |
 | 📜 | **Patent Filed** — Hydraulic Anomaly Detection Framework |
@@ -143,7 +170,12 @@ Analyzed 15+ cheating vectors across 5 virtual exam platforms. Proposed 10 mitig
 | 📊 | **CGPA 9.35/10** at VIT Vellore |
 | 🤝 | Secured **Riviera sponsorships** partnering with **10+ brands** (Pepsi & more) |
 | 💃 | **7-year Bharatanatyam** dancer — solo Arangetram before **500+** audience |
-</div>
+| 🏆 | **Patent Filed** — Hydraulic Anomaly Detection Framework |
+| 🎓 | **Oracle OCI GenAI Professional** — Oracle University, 2025 |
+| 🎯 | **450+ LeetCode** problems (DSA + SQL) |
+| 📊 | **CGPA 9.35/10** — VIT Vellore |
+| 🤝 | Secured **Riviera sponsorships** with 10+ brands including Pepsi |
+| 💃 | **Bharatanatyam** — 7 years, solo Arangetram before 500+ audience |
 ---
 ## 🎓 Coursework
 <details>
@@ -156,11 +188,6 @@ Analyzed 15+ cheating vectors across 5 virtual exam platforms. Proposed 10 mitig
 | **Lab Performance** | 5+ major labs completed with average grade **A+** |
 </details>
 ---
-## 🐍 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/heershah2510/heershah2510/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
----
 <div align="center">
 ### 💬 Let's Connect!
 *I'm always open to collaborating on research projects, ML applications, and innovative software solutions.*
@@ -168,5 +195,13 @@ Analyzed 15+ cheating vectors across 5 virtual exam platforms. Proposed 10 mitig
 <a href="https://linkedin.com/in/heershah"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br><br>
 ⭐ *From [heershah2510](https://github.com/heershah2510) — building the future, one commit at a time.*
+  <br>
+  <b>Let's Connect!</b>
+  <br><br>
+  <a href="mailto:heerrshah025@gmail.com"><img src="https://img.shields.io/badge/Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/heer-shah-vit/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <br><br>
+  <i>From <a href="https://github.com/heershah2510">heershah2510</a> — building the future, one commit at a time.</i>
+  <br><br>
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=120&section=footer"/>
