@@ -8,7 +8,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&color=A855F7&lines=Patent+Holder+🏆;500%2B+LeetCode+Problems;Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀"/>
 
 <br><br>
 
