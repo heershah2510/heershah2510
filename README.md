@@ -8,9 +8,6 @@
 
 <br>
 
-
-<br><br>
-
 <a href="mailto:heerrshah025@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -37,7 +34,6 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> About Me
 
-<img align="right" width="320" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Quick%20Facts&align=center&titleAlign=center&lineCount=5&theme=github_dark">
 
 🎓 **Fourth-Year B.Tech Computer Science Student** at **VIT Vellore**
 
